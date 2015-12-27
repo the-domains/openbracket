@@ -1,0 +1,28 @@
+name: openBracket
+favicon: null
+layout_spectrum: 0.3680524055380374
+typography_spectrum: 0.2404121735598892
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9724243795499206
+  lightness: 0.9534996401052922
+  saturation: 0.41602546046487987
+  rhythmicContrast: 0.11937987827695906
+purpose: []
